@@ -251,6 +251,22 @@ Enviar previsão ao usuário
 
 ---
 
+# Evidências de execução
+
+O repositório também contém imagens de evidência demonstrando:
+
+- execução do workflow no N8N
+- testes de sucesso com múltiplas cidades
+- tratamento de erros para cidades inválidas
+- funcionamento do bot no Telegram
+
+Arquivos disponíveis na pasta:
+
+```text
+/evidencias
+
+---
+
 # Autor
 
 Rodrigo Moura Araújo
