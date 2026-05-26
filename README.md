@@ -11,6 +11,15 @@ O chatbot recebe uma cidade enviada via Telegram, consulta os dados climáticos 
 
 ---
 
+## Docker Compose (Opcional)
+
+Caso utilize Docker para executar o n8n localmente, configure as seguintes variáveis de ambiente:
+
+```env
+NGROK_AUTHTOKEN=seu_token_ngrok
+NGROK_DOMAIN=sua-url.ngrok-free.app
+```
+
 # Tecnologias utilizadas
 
 - N8N
